@@ -6,5 +6,15 @@ public class FirstFile {
     public FirstFile() {
         i = 100;
         i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
+        i = 100;
     }
 }
